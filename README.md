@@ -42,8 +42,8 @@ Passionate about building intelligent systems and solving real-world problems wi
   <img src="https://img.shields.io/badge/GIT_REPOSITORY-24292e?style=for-the-badge&logo=github&logoColor=white" alt="PDF Q&A Chatbot Repo" />
 </a>
 
-- **Tech Stack:** `Python` `Scikit-learn` `FastAPI` `React`
-- Developed an end-to-end Machine Learning application that allows users to upload PDF documents, process and index their content semantically, and conduct real-time streaming Q&A against the context.
+- **Tech Stack:** `Python` `Langchain` `FastAPI` `React`
+- Developed an full stack application that allows users to upload PDF documents, process and index their content semantically, and conduct real-time streaming Q&A against the context.
 -  Full-stack Retrieval-Augmented Generation (RAG) web application
 
 ---
