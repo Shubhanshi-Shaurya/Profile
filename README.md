@@ -37,14 +37,14 @@ Passionate about building intelligent systems and solving real-world problems wi
 
 ##  Featured Projects
 
-### [Placement Predictor](https://github.com/Shubhanshi-Shaurya/Full-Stack-Placement-Predictor)
-<a href="https://github.com/Shubhanshi-Shaurya/Full-Stack-Placement-Predictor">
-  <img src="https://img.shields.io/badge/GIT_REPOSITORY-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Placement Predictor Repo" />
+### [PDF Q&A Chatbot](https://github.com/Shubhanshi-Shaurya/PDF-qna-chatbot)
+<a href="https://github.com/Shubhanshi-Shaurya/PDF-qna-chatbot">
+  <img src="https://img.shields.io/badge/GIT_REPOSITORY-24292e?style=for-the-badge&logo=github&logoColor=white" alt="PDF Q&A Chatbot Repo" />
 </a>
 
-- **Tech Stack:** `Python` `Scikit-learn` `Flask` `HTML/CSS`
-- Developed an end-to-end Machine Learning application to predict placement outcomes based on their academic and cognitive metrics.
-- Machine Learning model trained on student data such as IQ and CGPA.
+- **Tech Stack:** `Python` `Scikit-learn` `FastAPI` `React`
+- Developed an end-to-end Machine Learning application that allows users to upload PDF documents, process and index their content semantically, and conduct real-time streaming Q&A against the context.
+-  Full-stack Retrieval-Augmented Generation (RAG) web application
 
 ---
 
