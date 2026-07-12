@@ -59,15 +59,14 @@ Passionate about building intelligent systems and solving real-world problems wi
 
 ---
 
-### [Movie Recommender System](https://github.com/Shubhanshi-Shaurya/Movie_recommender_system)
-<a href="https://github.com/Shubhanshi-Shaurya/Movie_recommender_system">
+### [Cattle Breed Classifier](https://github.com/Shubhanshi-Shaurya/cattle_classifier_sih25004)
+<a href="https://github.com/Shubhanshi-Shaurya/cattle_classifier_sih25004">
   <img src="https://img.shields.io/badge/GIT_REPOSITORY-1e293b?style=for-the-badge&logo=github&logoColor=white" alt="Movie Recommender Repo" />
 </a>
 
-- **Tech Stack:** `Python` `Machine Learning` `Data Analysis`
-- A Movie Recommender System built using Machine Learning that suggests movies to users based on similarity and recommendation algorithms.
--  This project helps users discover movies according to their interests and viewing preferences.
-
+- **Tech Stack:** `Python` `Deep Learning` `Flask` `React`
+- Deep Learning-based web application that identifies Indian cattle and buffalo breeds from an uploaded image. 
+-  This project helps users identify and preview cattle breeds by uploading images.
 ---
 
 ## Currently Learning
