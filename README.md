@@ -70,7 +70,7 @@ Passionate about building intelligent systems and solving real-world problems wi
 ---
 
 ## Currently Learning
-- Deep Learning  
+- Deep Learning and Generative AI
 - Advanced Data Structures and Algorithms  
 - Working on End to End projects
 
