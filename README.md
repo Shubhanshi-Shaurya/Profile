@@ -103,9 +103,9 @@ Passionate about building intelligent systems and solving real-world problems wi
  <br>
 
   
-  <a href="https://shubhanshi-shaurya.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-525252?style=for-the-badge&logo=LeetCode&logoColor=white" height="35" alt="Portfolio" />
-  </a>
+<a href="https://shubhanshi-shaurya.github.io/portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-525252?style=for-the-badge&logo=googlechrome&logoColor=white" height="35" alt="Portfolio" />
+</a>
 
   <br><br>
 
