@@ -86,21 +86,21 @@ Passionate about building intelligent systems and solving real-world problems wi
     <img src="https://img.shields.io/badge/LinkedIn-404040?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
   </a>
   
-  <br/> 
+  <br> 
 
   
   <a href="https://leetcode.com/u/Shubhanshi_Shaurya/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-525252?style=for-the-badge&logo=LeetCode&logoColor=white" height="35" alt="LeetCode" />
   </a>
   
-  <br/> 
+  <br> 
 
   
   <a href="https://mailto:shubhanshishaurya2006@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-737373?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail" />
   </a>
 
-  <br/><br/>
+  <br><br>
 
   <p>
     <i>Available for <b>Machine Learning</b> research and <b>Full-Stack</b> development collaborations.<br/>
